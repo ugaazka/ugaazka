@@ -55,18 +55,18 @@ I specialize in creating **clean, fast, and scalable systems** using the latest 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ugaazka&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ugaazka&layout=compact)
 
 > ⚠️ **Replace `YOUR_USERNAME` with your real GitHub username.**
 
 ---
 
 ## 📫 Contact Me
-- **Email:** abdinaasir10905@gmail.com  
-- **GitHub:** https://github.com/YOUR_USERNAME  
-- **WhatsApp:** +252 63 XXX XXXX
+- **Email:** abdihamiidmahamed46@gmail.com  
+- **GitHub:** https://github.com/ugaazka  
+- **WhatsApp:** +252 63 6927188
 
 ---
 
