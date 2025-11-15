@@ -59,7 +59,6 @@ I specialize in creating **clean, fast, and scalable systems** using the latest 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ugaazka&layout=compact)
 
-> ⚠️ **Replace `ugaazka` with your real GitHub username.**
 
 ---
 
