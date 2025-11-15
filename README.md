@@ -68,40 +68,44 @@ Manages:
 
 ---
 
-
-
-
-
-# 📊 GitHub Insights (Ultra-Clean Layout)
-
-<div align="center"><!-- GitHub Stats with Glow --> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ugaazka&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E0&text_color=ffffff" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugaazka&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff" /><!-- Streak with Fire --> <img src="https://streak-stats.demolab.com?user=ugaazka&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=FF00E0&currStreakLabel=FFFFFF" /><!-- Activity Graph --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ugaazka&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F0FF&line=FF00E0&point=FFFFFF" /></div>
+# 💡 Quick Highlights
+<p align="center">
+  <img src="https://img.shields.io/badge/Software_Engineer-00C2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full-Stack_Developer-9C00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flask_Engineer-00E0FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenSource-Contributor-FF00E0?style=for-the-badge" />
+</p>
 
 ---
-Frontend Development    ██████████ 100%
 
+# 🛠 Tools I Use Daily
+<p align="center">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
+---
 
-Backend Architecture    ██████████ 100%
+# 🧑‍💻 Currently Working On
+- Enhancing **E-Commerce System** with AI recommendations  
+- Building **next-gen Student Management Dashboard**  
+- Optimizing **Police Management System** for speed & analytics  
+- Exploring **full-stack cloud deployment with Flask & MongoDB**
 
+---
 
+# 📊 GitHub Insights (Ultra-Clean Layout)
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ugaazka&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E0&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugaazka&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff" />
+<img src="https://streak-stats.demolab.com?user=ugaazka&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=FF00E0&currStreakLabel=FFFFFF" />
+<img src="https://readme-activity-graph.vercel.app/graph?username=ugaazka&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F0FF&line=FF00E0&point=FFFFFF" />
+</div>
 
-
-Database Design         ██████████ 100%
-
-
-
-System Scaling          ██████████ 100%
-
-
-
-
-Problem Solving         ██████████ 100%
-
-
-
-
-
-Creativity              ██████████ 100%
+---
 
 # 🧠 Philosophy
 I believe in:
@@ -112,11 +116,35 @@ I believe in:
 
 ---
 
-📡 Connect With My Universe
+# 🎯 What I Offer / Services
+- Building full-stack web applications  
+- Designing admin dashboards  
+- Automating data & reporting systems  
+- Solving complex backend challenges  
+- Implementing clean UI/UX  
+- Deploying applications with efficiency  
 
-<p align="center"> <!-- Email --> <a href="mailto:abdihamiidmahamed46@gmail.com"> <img src="https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <!-- GitHub --> <a href="https://github.com/ugaazka"> <img src="https://img.shields.io/badge/GitHub-9C00FF?style=for-the-badge&logo=github&logoColor=white" /> </a> <!-- WhatsApp --> <a href="https://wa.me/252636927188"> <img src="https://img.shields.io/badge/WhatsApp-FF00E0?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> <!-- Portfolio --> <a href="#"> <img src="https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=react&logoColor=white" /> </a> </p>
+---
+
+# 📌 Pinned Projects
+- **E-Commerce System** → Full-stack shopping ecosystem  
+- **Student Management System** → Attendance, payments, reports  
+- **Police Management System** → Cases, employees, analytics  
+
+---
+
+# 📡 Connect With My Universe
+
+<p align="center"> 
+<a href="mailto:abdihamiidmahamed46@gmail.com"> <img src="https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
+<a href="https://github.com/ugaazka"> <img src="https://img.shields.io/badge/GitHub-9C00FF?style=for-the-badge&logo=github&logoColor=white" /> </a> 
+<a href="https://wa.me/252636927188"> <img src="https://img.shields.io/badge/WhatsApp-FF00E0?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> 
+<a href="#"> <img src="https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=react&logoColor=white" /> </a> 
+</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ugaazka&label=COSMIC+VISITORS&color=00F0FF&style=for-the-badge" /> </p>
 
+---
 
 # 🤝 Let's Connect
 <p>
@@ -131,6 +159,3 @@ I believe in:
   <strong>⭐ Thanks for visiting — Keep building. Keep improving.</strong><br/>
   <i>"Innovation begins with curiosity."</i>
 </p>
-
-
-
