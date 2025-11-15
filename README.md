@@ -1,152 +1,136 @@
-# 👋 Hi, I'm Ugazka (ApdiHamed Mohamed Hamud)
+<!-- ============================= -->
+<!--      U G A Z   R E A D M E     -->
+<!--  Futuristic + Clean Premium    -->
+<!-- ============================= -->
 
-### 💻 Software Engineer | Full-Stack Developer  
-### 🌍 From Borama, Somalia  
-
-I'm a passionate Software Engineer who builds modern Web, Mobile, and Desktop applications.  
-I specialize in creating **clean, fast, and scalable systems** using the latest technologies.
-
----
-
-## 🚀 Skills & Technologies
-
-### 🔹 **Frontend**
-- HTML5, CSS3, JavaScript  
-- Bootstrap, Tailwind  
-- React (Basics)
-
-### 🔹 **Backend**
-- Python (Flask, Django)  
-- PHP, Node.js  
-- REST APIs
-
-### 🔹 **Databases**
-- MySQL  
-- MongoDB  
-- SQL Server
-
-### 🔹 **Mobile & Desktop**
-- Android (Java/Kotlin — basics)  
-- C# Desktop Apps (WinForms/WPF)
-
-### 🔹 **Tools**
-- Git & GitHub  
-- VS Code, PyCharm  
-- Postman  
-- Figma (UI/UX)
-
----
-
-## 📌 My Best Projects
-
-### 🛒 **E-Commerce Website (Full Stack)**
-> A complete online shopping system with user login, products, orders, and cart.
-
-### 🎓 **Student/Class Management System**
-> Built using Flask + MongoDB with attendance, reports, payments & dashboard.
-
-### 🚓 **Police Management System**
-> C# + SQL system for police case records, employees, reports & analytics.
-
-### 📊 **Electronic Management System**
-> Sales reports, employees, complaint data + PDF/Excel export.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ugaazka&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ugaazka&layout=compact)
-
-
----
-
-## 📫 Contact Me
-- **Email:** abdihamiidmahamed46@gmail.com  
-- **GitHub:** https://github.com/ugaazka  
-- **WhatsApp:** +252 63 6927188
-
----
-
-## 💬 Quote  
-**"Code with purpose. Build with passion. Deliver with excellence."**
-
-<!-- 3D Animated Hero Banner -->
+<!-- Floating Title Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=00E0FF&center=true&vCenter=true&width=800&lines=UGAZ+%7C+Software+Engineer;Full+Stack+Developer;System+Architect;Creative+Problem+Solver;Welcome+To+My+Digital+Universe+🌌" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+Ugaz's+GitHub+Profile;Software+Engineer+%7C+Full-Stack+Developer;Building+Clean+%26+Futuristic+Systems..." />
 </p>
 
-<!-- Neon Border -->
+<br/>
+
+<!-- Centered Mission Quote -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Futuristic-Engineer-00E0FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE0IiB2aWV3Qm94PSIwIDAgMTIgMTQiIHdpZHRoPSIxMiIgZmlsbD0iI2ZmZiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMSAyLjV2OS4xbDkuNi00LjV6Ii8+PC9zdmc+" />
-  <img src="https://img.shields.io/badge/Creative-Mind-9C00FF?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=FF00C8&style=for-the-badge" />
+  <strong><i>"Engineering the future through clean code and meaningful systems."</i></strong>
 </p>
 
 ---
 
-# 🌐 **Who is Ugaz? — The Digital Architect**
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E0FF,100:9C00FF&height=3" />
-</p>
+# 🌐 About Me
 
-### 🚀 *“I build systems that speak, think, and scale.”*
+I'm **ApdiHamed Mohamed Haamud (Ugaz)** — a passionate **Software Engineer** who builds efficient, scalable, and visually polished applications across **Web, Desktop, and Mobile**.
 
-I am **Ugaz**, a visionary **Software Engineer** who creates  
-**next-generation digital experiences** — blending **code, creativity, and intelligence**.
-
-- 🔥 I architect scalable systems & smart applications  
-- 🧠 I treat code like art — clean, elegant & powerful  
-- 🌍 From Borama, Somalia  
-- ⚡ Passion: turning complex ideas into simple experiences  
-
-> **I don't just build software — I build digital universes.**
+I focus on:
+- 🚀 Building real systems that solve real problems  
+- 🎨 Clean UI/UX with modern interfaces  
+- 🛠 Full-Stack development (Frontend + Backend)  
+- 📦 Database design & automation  
+- ⚡ Performance & optimization  
+- 🌍 Living & building in Borama, Somalia  
 
 ---
 
-# 🛠️ **My Futuristic Tech Arsenal**
-
+# ⚡ Tech Stack (Clean Modern Icons)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,python,flask,php,nodejs,cs,dotnet,mysql,mongodb,git,github,vscode,pycharm,postman&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,python,flask,php,nodejs,mysql,mongodb,git,github,vscode,pycharm,postman" />
 </p>
 
 ---
 
-# 🧬 **Signature Projects — The Masterpieces**
+# 🚀 Featured Projects
 
-## 🛒 **E-Commerce Universe**
-A complete shopping ecosystem with  
-AI-based suggestions, smooth UI, modern security & admin control.
-
-## 🎓 **Smart Student Management System**
-Tracks attendance, payments, classes, analytics, and generates powerful reports.
-
-## 🚓 **Police Digital Intelligence System**
-C# + SQL platform for cases, reports, employees & investigation analytics.
-
-> **My systems aren’t apps — they’re experiences.**
+### 🛒 **E-Commerce System (Full Stack)**
+A complete online shopping platform:
+- Modern UI  
+- Cart, checkout, orders  
+- Admin dashboard  
+- Payment tracking  
 
 ---
 
-# ☠️ **Neon Performance Dashboard**
+### 🎓 **Student & Class Management System**
+📌 Flask + MongoDB  
+Includes:
+- Attendance system  
+- Monthly/Semester payment tracking  
+- Registered-by-staff system  
+- Full reporting & filtering  
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ugaazka&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugaazka&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117"/>
+---
+
+### 🚔 **Police Management System (C# + SQL Server)**
+Manages:
+- Employees  
+- Complaints  
+- Case reporting  
+- Data analytics dashboard  
+
+---
+
+
+
+
+
+# 📊 GitHub Insights (Ultra-Clean Layout)
+
+<div align="center"><!-- GitHub Stats with Glow --> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ugaazka&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E0&text_color=ffffff" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugaazka&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff" /><!-- Streak with Fire --> <img src="https://streak-stats.demolab.com?user=ugaazka&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=FF00E0&currStreakLabel=FFFFFF" /><!-- Activity Graph --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ugaazka&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F0FF&line=FF00E0&point=FFFFFF" /></div>
+
+---
+Frontend Development    ██████████ 100%
+
+
+
+Backend Architecture    ██████████ 100%
+
+
+
+
+Database Design         ██████████ 100%
+
+
+
+System Scaling          ██████████ 100%
+
+
+
+
+Problem Solving         ██████████ 100%
+
+
+
+
+
+Creativity              ██████████ 100%
+
+# 🧠 Philosophy
+I believe in:
+- Clean code → Clean mind  
+- Simplicity → Power  
+- Systems → That help people  
+- Creativity → Over competition  
+
+---
+
+📡 Connect With My Universe
+
+<p align="center"> <!-- Email --> <a href="mailto:abdihamiidmahamed46@gmail.com"> <img src="https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <!-- GitHub --> <a href="https://github.com/ugaazka"> <img src="https://img.shields.io/badge/GitHub-9C00FF?style=for-the-badge&logo=github&logoColor=white" /> </a> <!-- WhatsApp --> <a href="https://wa.me/252636927188"> <img src="https://img.shields.io/badge/WhatsApp-FF00E0?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> <!-- Portfolio --> <a href="#"> <img src="https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=react&logoColor=white" /> </a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ugaazka&label=COSMIC+VISITORS&color=00F0FF&style=for-the-badge" /> </p>
+
+
+# 🤝 Let's Connect
+<p>
+• 📩 Email: **Abdihamiidmahamed46@gmail.com**  
+• 💼 GitHub: **https://github.com/ugaazka**  
+• 📱 WhatsApp: **+252 63 6927188**  
 </p>
 
 ---
 
-# 🔥 **Coding Streak — The Eternal Flame**
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ugaazka&theme=tokyonight&hide_border=true&background=0D1117" />
+  <strong>⭐ Thanks for visiting — Keep building. Keep improving.</strong><br/>
+  <i>"Innovation begins with curiosity."</i>
 </p>
 
----
 
-# 🌌 **Galaxy Wave (Dynamic Animation)**  
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=9C00FF&height=150&section=footer&text=Explore%20The%20Universe%20Of%20Code&fontSize=22&fontColor=ffffff"/>
-</p>
 
