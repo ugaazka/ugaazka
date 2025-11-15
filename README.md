@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ugaz (Abdinaasir Mahamed Haamud)
+# 👋 Hi, I'm Ugazka (ApdiHamed Mohamed Hamud)
 
 ### 💻 Software Engineer | Full-Stack Developer  
 ### 🌍 From Borama, Somalia  
