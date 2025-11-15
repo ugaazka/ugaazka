@@ -1,6 +1,74 @@
-My name is Ugazka, living in Somalia. I am a student at Amoud University,
-specifically in the Faculty of Software Engineering.
-I am a developer specializing in websites and desktop systems. 
-If you need more information, 
-you can contact me via email at Abdihamiidmahamed46@gmail.com 
-or phone at +252636927188. I am ready to assist with anything related to building reliable software solutions
+# 👋 Hi, I'm Ugaz (Abdinaasir Mahamed Haamud)
+
+### 💻 Software Engineer | Full-Stack Developer  
+### 🌍 From Borama, Somalia  
+
+I'm a passionate Software Engineer who builds modern Web, Mobile, and Desktop applications.  
+I specialize in creating **clean, fast, and scalable systems** using the latest technologies.
+
+---
+
+## 🚀 Skills & Technologies
+
+### 🔹 **Frontend**
+- HTML5, CSS3, JavaScript  
+- Bootstrap, Tailwind  
+- React (Basics)
+
+### 🔹 **Backend**
+- Python (Flask, Django)  
+- PHP, Node.js  
+- REST APIs
+
+### 🔹 **Databases**
+- MySQL  
+- MongoDB  
+- SQL Server
+
+### 🔹 **Mobile & Desktop**
+- Android (Java/Kotlin — basics)  
+- C# Desktop Apps (WinForms/WPF)
+
+### 🔹 **Tools**
+- Git & GitHub  
+- VS Code, PyCharm  
+- Postman  
+- Figma (UI/UX)
+
+---
+
+## 📌 My Best Projects
+
+### 🛒 **E-Commerce Website (Full Stack)**
+> A complete online shopping system with user login, products, orders, and cart.
+
+### 🎓 **Student/Class Management System**
+> Built using Flask + MongoDB with attendance, reports, payments & dashboard.
+
+### 🚓 **Police Management System**
+> C# + SQL system for police case records, employees, reports & analytics.
+
+### 📊 **Electronic Management System**
+> Sales reports, employees, complaint data + PDF/Excel export.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+> ⚠️ **Replace `YOUR_USERNAME` with your real GitHub username.**
+
+---
+
+## 📫 Contact Me
+- **Email:** abdinaasir10905@gmail.com  
+- **GitHub:** https://github.com/YOUR_USERNAME  
+- **WhatsApp:** +252 63 XXX XXXX
+
+---
+
+## 💬 Quote  
+**"Code with purpose. Build with passion. Deliver with excellence."**
