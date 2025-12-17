@@ -19,7 +19,7 @@
 
 # 🌐 About Me
 
-I'm **ApdiHamed Mohamed Haamud (Ugaz)** — a passionate **Software Engineer** who builds efficient, scalable, and visually polished applications across **Web, Desktop, and Mobile**.
+I'm **AbdiHamed Mohamed Haamud (Ugaz)** — a passionate **Software Engineer** who builds efficient, scalable, and visually polished applications across **Web, Desktop, and Mobile**.
 
 I focus on:
 - 🚀 Building real systems that solve real problems  
