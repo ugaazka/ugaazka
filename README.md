@@ -99,8 +99,8 @@ Manages:
 
 # 📊 GitHub Insights (Ultra-Clean Layout)
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ugaazka&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E0&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugaazka&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff" />
+<img src="https://streak-stats.demolab.com?user=ugaazka&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=FF00E0&currStreakLabel=FFFFFF" />
+<img src="https://readme-activity-graph.vercel.app/graph?username=ugaazka&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F0FF&line=FF00E0&point=FFFFFF" />
 <img src="https://streak-stats.demolab.com?user=ugaazka&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=FF00E0&currStreakLabel=FFFFFF" />
 <img src="https://readme-activity-graph.vercel.app/graph?username=ugaazka&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F0FF&line=FF00E0&point=FFFFFF" />
 </div>
