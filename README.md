@@ -461,19 +461,22 @@ Good design makes software easier to trust, easier to use, and easier to underst
 
 <!-- ===================== GITHUB TROPHY ===================== -->
 
+<!-- ===================== GITHUB TROPHY ===================== -->
+
 ## 🏆 GitHub Trophy
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
       width="95%"
-      src="https://github-profile-trophy-orcin-eta.vercel.app/?username=ugaazka&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15"
+      src="https://trophygh.kolioaris.xyz/?username=ugaazka&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15"
       alt="GitHub Profile Trophy"
     />
   </a>
 </p>
 
 ---
+
 
 
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
