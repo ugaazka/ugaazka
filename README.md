@@ -420,6 +420,8 @@ Good design makes software easier to trust, easier to use, and easier to underst
 
 <!-- ===================== GITHUB STATISTICS ===================== -->
 
+<!-- ===================== GITHUB STATISTICS ===================== -->
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -434,12 +436,20 @@ Good design makes software easier to trust, easier to use, and easier to underst
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Peak%20Activity%20Day-44%20Contributions%20on%20May%202-FF00E0?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Current%20Focus-Daily%20Consistency-00F0FF?style=for-the-badge&logo=target&logoColor=white" />
+</p>
+
+<p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugaazka&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" />
 </p>
 
 <p align="center">
   <img width="95%" src="https://readme-activity-graph.vercel.app/graph?username=ugaazka&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F0FF&line=FF00E0&point=FFFFFF&area=true" />
 </p>
+
+---
+
 
 ---
 
