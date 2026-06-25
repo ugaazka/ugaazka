@@ -1,0 +1,124 @@
+name: Generate Peak Day Card
+
+on:
+workflow_dispatch:
+schedule:
+- cron: "0 0 * * *"
+push:
+branches:
+- main
+
+permissions:
+contents: write
+
+jobs:
+generate:
+runs-on: ubuntu-latest
+
+```
+steps:
+  - name: Generate peak day SVG
+    uses: actions/github-script@v7
+    with:
+      github-token: ${{ secrets.GITHUB_TOKEN }}
+      script: |
+        const fs = require("fs");
+
+        const username = "ugaazka";
+
+        const query = `
+          query($login: String!) {
+            user(login: $login) {
+              contributionsCollection {
+                contributionCalendar {
+                  totalContributions
+                  weeks {
+                    contributionDays {
+                      date
+                      contributionCount
+                      color
+                    }
+                  }
+                }
+              }
+            }
+          }
+        `;
+
+        const result = await github.graphql(query, { login: username });
+
+        const days = result.user.contributionsCollection.contributionCalendar.weeks
+          .flatMap(week => week.contributionDays);
+
+        const peak = days.reduce((max, day) => {
+          return day.contributionCount > max.contributionCount ? day : max;
+        }, days[0]);
+
+        const total = result.user.contributionsCollection.contributionCalendar.totalContributions;
+
+        const date = new Date(peak.date);
+        const formattedDate = date.toLocaleDateString("en-US", {
+          month: "short",
+          day: "numeric",
+          year: "numeric"
+        });
+
+        const svg = `
+        <svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect width="495" height="195" rx="12" fill="#0D1117"/>
+          <rect x="1" y="1" width="493" height="193" rx="11" stroke="#00F0FF" stroke-opacity="0.25"/>
+
+          <defs>
+            <linearGradient id="g" x1="0" y1="0" x2="495" y2="195" gradientUnits="userSpaceOnUse">
+              <stop stop-color="#00F0FF"/>
+              <stop offset="0.5" stop-color="#9C00FF"/>
+              <stop offset="1" stop-color="#FF00E0"/>
+            </linearGradient>
+          </defs>
+
+          <text x="30" y="42" fill="#00F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">
+            Peak Activity Day
+          </text>
+
+          <text x="30" y="82" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="900">
+            ${peak.contributionCount}
+          </text>
+
+          <text x="122" y="82" fill="#FF00E0" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">
+            Contributions
+          </text>
+
+          <text x="30" y="118" fill="#9FEFEE" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">
+            ${formattedDate}
+          </text>
+
+          <text x="30" y="150" fill="#FFFFFF" fill-opacity="0.85" font-family="Segoe UI, Arial, sans-serif" font-size="15">
+            Best one-day contribution performance from GitHub data
+          </text>
+
+          <text x="30" y="174" fill="#9FEFEE" fill-opacity="0.85" font-family="Segoe UI, Arial, sans-serif" font-size="13">
+            Total contributions this year: ${total}
+          </text>
+
+          <circle cx="395" cy="92" r="52" stroke="url(#g)" stroke-width="12" opacity="0.95"/>
+          <text x="395" y="102" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="900">
+            ${peak.contributionCount}
+          </text>
+          <text x="395" y="130" text-anchor="middle" fill="#00F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">
+            PEAK
+          </text>
+        </svg>
+        `;
+
+        fs.mkdirSync("dist", { recursive: true });
+        fs.writeFileSync("dist/peak-day-card.svg", svg);
+        console.log(`Peak day: ${peak.contributionCount} contributions on ${formattedDate}`);
+
+  - name: Publish peak day card
+    uses: peaceiris/actions-gh-pages@v4
+    with:
+      github_token: ${{ secrets.GITHUB_TOKEN }}
+      publish_dir: ./dist
+      publish_branch: output
+      keep_files: true
+```
