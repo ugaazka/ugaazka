@@ -1,124 +1,84 @@
-````html
-<!-- =============================== -->
-<!--        U G A Z  | README        -->
-<!--  Premium • Futuristic • Clean   -->
-<!-- =============================== -->
+<!-- ============================= -->
+<!--      U G A Z   R E A D M E     -->
+<!--  Futuristic + Clean Premium    -->
+<!-- ============================= -->
 
+<!-- Floating Title Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=700&color=00F0FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ugaz+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Developer;Building+Modern+Web%2C+Desktop+%26+Mobile+Systems;Clean+Code.+Smart+Systems.+Real+Impact." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+Ugaz's+GitHub+Profile;Software+Engineer+%7C+Full-Stack+Developer;Building+Clean+%26+Futuristic+Systems..." />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:9C00FF,100:FF00E0&height=180&section=header&text=UGAZ%20DEV%20UNIVERSE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+<br/>
 
-<h1 align="center">⚡ AbdiHamed Mohamed Haamud — Ugaz ⚡</h1>
-
+<!-- Centered Mission Quote -->
 <p align="center">
-  <b>Software Engineer • Full-Stack Developer • System Builder</b><br/>
-  <i>Engineering clean, scalable, and futuristic digital solutions.</i>
-</p>
-
-<p align="center">
-  <a href="mailto:abdihamiidmahamed46@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ugaazka">
-    <img src="https://img.shields.io/badge/GitHub-9C00FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://wa.me/252636927188">
-    <img src="https://img.shields.io/badge/WhatsApp-FF00E0?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
+  <strong><i>"Engineering the future through clean code and meaningful systems."</i></strong>
 </p>
 
 ---
 
-## 🌌 About Me
+# 🌐 About Me
 
-I'm **Ugaz**, a passionate **Software Engineer** from **Borama, Somalia**, focused on building powerful, clean, and modern systems for real-world problems.
+I'm **AbdiHamed Mohamed Haamud (Ugaz)** — a passionate **Software Engineer** who builds efficient, scalable, and visually polished applications across **Web, Desktop, and Mobile**.
 
-I specialize in:
-
-- 🚀 Full-stack web applications  
-- 🎨 Clean UI/UX and modern dashboards  
-- 🧠 Smart backend logic and automation  
-- 🗄 Database design and reporting systems  
-- 📱 Mobile-ready and responsive applications  
-- ⚡ Fast, scalable, and professional software  
-
-> **“I don’t just build apps — I build systems that solve real problems.”**
+I focus on:
+- 🚀 Building real systems that solve real problems  
+- 🎨 Clean UI/UX with modern interfaces  
+- 🛠 Full-Stack development (Frontend + Backend)  
+- 📦 Database design & automation  
+- ⚡ Performance & optimization  
+- 🌍 Living & building in Borama, Somalia  
 
 ---
 
-## 🧬 Tech Stack
-
+# ⚡ Tech Stack (Clean Modern Icons)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,python,flask,php,nodejs,mysql,mongodb,git,github,vscode,pycharm,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,python,flask,php,nodejs,mysql,mongodb,git,github,vscode,pycharm,postman" />
 </p>
 
 ---
 
-## 🚀 Featured Systems
+# 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="33%">
-
-### 🛒 E-Commerce System
-Modern shopping ecosystem with:
-
-- Product catalog  
-- Cart & checkout  
-- Orders  
+### 🛒 **E-Commerce System (Full Stack)**
+A complete online shopping platform:
+- Modern UI  
+- Cart, checkout, orders  
 - Admin dashboard  
 - Payment tracking  
 
-</td>
-<td width="33%">
+---
 
-### 🎓 Student Management
-Smart academic platform with:
-
-- Attendance  
-- Payments  
-- Staff registration  
-- Reports  
-- Filtering system  
-
-</td>
-<td width="33%">
-
-### 🚔 Police Management
-Professional desktop system with:
-
-- Employee records  
-- Complaints  
-- Case reports  
-- SQL Server database  
-- Analytics dashboard  
-
-</td>
-</tr>
-</table>
+### 🎓 **Student & Class Management System**
+📌 Flask + MongoDB  
+Includes:
+- Attendance system  
+- Monthly/Semester payment tracking  
+- Registered-by-staff system  
+- Full reporting & filtering  
 
 ---
 
-## ⚡ What Makes My Work Different?
+### 🚔 **Police Management System (C# + SQL Server)**
+Manages:
+- Employees  
+- Complaints  
+- Case reporting  
+- Data analytics dashboard  
 
+---
+
+# 💡 Quick Highlights
 <p align="center">
-  <img src="https://img.shields.io/badge/Clean_Code-00F0FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Modern_UI-9C00FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Real_Systems-FF00E0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scalable_Backend-00FF9C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software_Engineer-00C2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full-Stack_Developer-9C00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flask_Engineer-00E0FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenSource-Contributor-FF00E0?style=for-the-badge" />
 </p>
 
 ---
 
-## 🛠 Tools I Use
-
+# 🛠 Tools I Use Daily
 <p align="center">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
@@ -129,87 +89,74 @@ Professional desktop system with:
 
 ---
 
-## 🧠 Currently Building
-
-- 🛒 Advanced E-Commerce System  
-- 🎓 Student & Class Management Dashboard  
-- 🚔 Police Management System  
-- ☁️ Flask + MongoDB cloud deployment  
-- 🤖 Smart dashboards with automation  
+# 🧑‍💻 Currently Working On
+- Enhancing **E-Commerce System** with AI recommendations  
+- Building **next-gen Student Management Dashboard**  
+- Optimizing **Police Management System** for speed & analytics  
+- Exploring **full-stack cloud deployment with Flask & MongoDB**
 
 ---
 
-## 📊 GitHub Performance
+# 📊 GitHub Insights (Ultra-Clean Layout)
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=ugaazka&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=FF00E0&currStreakLabel=FFFFFF" />
+<img src="https://readme-activity-graph.vercel.app/graph?username=ugaazka&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F0FF&line=FF00E0&point=FFFFFF" />
+<img src="https://streak-stats.demolab.com?user=ugaazka&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=FF00E0&currStreakLabel=FFFFFF" />
+<img src="https://readme-activity-graph.vercel.app/graph?username=ugaazka&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F0FF&line=FF00E0&point=FFFFFF" />
+</div>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ugaazka&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E0&text_color=FFFFFF" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=ugaazka&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=FF00E0&currStreakLabel=FFFFFF" />
+---
+
+# 🧠 Philosophy
+I believe in:
+- Clean code → Clean mind  
+- Simplicity → Power  
+- Systems → That help people  
+- Creativity → Over competition  
+
+---
+
+# 🎯 What I Offer / Services
+- Building full-stack web applications  
+- Designing admin dashboards  
+- Automating data & reporting systems  
+- Solving complex backend challenges  
+- Implementing clean UI/UX  
+- Deploying applications with efficiency  
+
+---
+
+# 📌 Pinned Projects
+- **E-Commerce System** → Full-stack shopping ecosystem  
+- **Student Management System** → Attendance, payments, reports  
+- **Police Management System** → Cases, employees, analytics  
+
+---
+
+# 📡 Connect With My Universe
+
+<p align="center"> 
+<a href="mailto:abdihamiidmahamed46@gmail.com"> <img src="https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
+<a href="https://github.com/ugaazka"> <img src="https://img.shields.io/badge/GitHub-9C00FF?style=for-the-badge&logo=github&logoColor=white" /> </a> 
+<a href="https://wa.me/252636927188"> <img src="https://img.shields.io/badge/WhatsApp-FF00E0?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> 
+<a href="#"> <img src="https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=react&logoColor=white" /> </a> 
 </p>
 
-<p align="center">
-  <img src="https://readme-activity-graph.vercel.app/graph?username=ugaazka&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F0FF&line=FF00E0&point=FFFFFF" />
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ugaazka&label=COSMIC+VISITORS&color=00F0FF&style=for-the-badge" /> </p>
 
 ---
 
-## 🏆 Services I Offer
-
-- Full-stack web application development  
-- Admin dashboard design  
-- Database systems  
-- Report automation  
-- Backend problem solving  
-- UI/UX improvement  
-- Deployment support  
-- Business system development  
-
----
-
-## 🌍 My Developer Philosophy
-
-```txt
-Clean code is not just style.
-It is discipline, clarity, and respect for the future.
-````
-
-I believe in building software that is:
-
-* Simple to use
-* Powerful inside
-* Beautiful outside
-* Useful in real life
-
----
-
-## 📡 Connect With Me
-
-<p align="center">
-  <a href="mailto:abdihamiidmahamed46@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Abdihamiidmahamed46%40gmail.com-00F0FF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/ugaazka">
-    <img src="https://img.shields.io/badge/GitHub-ugaazka-9C00FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <br/><br/>
-  <a href="https://wa.me/252636927188">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B252%2063%206927188-FF00E0?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ugaazka&label=PROFILE%20VISITORS&color=00F0FF&style=for-the-badge" />
+# 🤝 Let's Connect
+<p>
+• 📩 Email: **Abdihamiidmahamed46@gmail.com**  
+• 💼 GitHub: **https://github.com/ugaazka**  
+• 📱 WhatsApp: **+252 63 6927188**  
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E0,50:9C00FF,100:00F0FF&height=120&section=footer" />
+  <strong>⭐ Thanks for visiting — Keep building. Keep improving.</strong><br/>
+  <i>"Innovation begins with curiosity."</i>
 </p>
 
-<h3 align="center">⭐ Keep Building • Keep Learning • Keep Improving ⭐</h3>
-
-<p align="center">
-  <i>“Innovation begins with curiosity — and grows with action.”</i>
-</p>
-```
