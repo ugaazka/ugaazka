@@ -7,7 +7,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:0D1117,50:3B0764,75:0E7490,100:FF00E0&text=AbdiHamed%20Mohamed%20Haamud&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Backend%20Engineer&descSize=17&descAlignY=57&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:0D1117,50:3B0764,75:0E7490,100:FF00E0&text=Abdihamed%20Mohamed%20Hamud&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Backend%20Engineer&descSize=17&descAlignY=57&animation=fadeIn" />
 </p>
 
 <!-- ===================== HERO SECTION ===================== -->
