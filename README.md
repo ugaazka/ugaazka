@@ -1,39 +1,10 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/135448976?v=4" width="176" height="176" alt="Portrait of Abdihamiid Mohamed Hamud" />
-</p>
+<!-- ========================================================= -->
 
-<h1 align="center">Abdihamiid Mohamed Hamud</h1>
+<!--                 UGAZ — PREMIUM GITHUB README              -->
 
-<p align="center"><strong>Software Engineer · Full-Stack Developer · Backend Engineer</strong></p>
-<p align="center"><code>@ugaazka</code> · Borama, Somalia</p>
+<!--        Futuristic • Clean • Recruiter-Friendly • Mobile    -->
 
-<p align="center">
-  <b>Engineering premium digital systems through clean architecture, elegant interfaces, and meaningful software.</b>
-</p>
-
-<p align="center">
-  <a href="mailto:abdihamiidmahamed46@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ugaazka">
-    <img src="https://img.shields.io/badge/GitHub-9C00FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://wa.me/252636927188">
-    <img src="https://img.shields.io/badge/WhatsApp-FF00E0?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=34&color=0:020617,50:111827,100:020617" />
-</p>
-
-<p align="center"><a href="#-about-me">About</a> · <a href="#-advanced-technology-stack">Stack</a> · <a href="#-featured-projects">Projects</a> · <a href="#-professional-services">Services</a> · <a href="#-github-analytics-command-center">GitHub activity</a></p>
-
-<details>
-<summary>Animated introduction and role badges</summary>
+<!-- ========================================================= -->
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:0D1117,50:3B0764,75:0E7490,100:FF00E0&text=Abdihamiid%20Mohamed%20Hamud&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Backend%20Engineer&descSize=17&descAlignY=57&animation=fadeIn" />
@@ -58,7 +29,34 @@
 
 <br/>
 
-</details>
+<p align="center">
+  <b>Engineering premium digital systems through clean architecture, elegant interfaces, and meaningful software.</b>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="mailto:abdihamiidmahamed46@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ugaazka">
+    <img src="https://img.shields.io/badge/GitHub-9C00FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://wa.me/252636927188">
+    <img src="https://img.shields.io/badge/WhatsApp-FF00E0?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=34&color=0:020617,50:111827,100:020617" />
+</p>
+
+<br/>
 
 <!-- ===================== ABOUT ME ===================== -->
 
@@ -66,7 +64,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00F0FF,50:111827,100:FF00E0" />
 </p>
 
-<h2>🌐 About Me</h2>
+<h2 align="center">🌐 About Me</h2>
 
 <table>
 <tr>
@@ -89,6 +87,8 @@ I enjoy building systems that are not only functional, but also organized, maint
 </tr>
 </table>
 
+<br/>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Clean%20Code-111827?style=for-the-badge&logo=codeforces&logoColor=00F0FF" />
   <img src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge&logo=blueprint&logoColor=FF00E0" />
@@ -96,13 +96,17 @@ I enjoy building systems that are not only functional, but also organized, maint
   <img src="https://img.shields.io/badge/Database%20Driven-111827?style=for-the-badge&logo=mysql&logoColor=00FF9C" />
 </p>
 
+<br/>
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FF00E0,50:111827,100:00F0FF" />
 </p>
 
+<br/>
+
 <!-- ===================== TECHNOLOGY STACK ===================== -->
 
-<h2>⚡ Advanced Technology Stack</h2>
+<h2 align="center">⚡ Advanced Technology Stack</h2>
 
 <p align="center">
   <b>Technologies I use to design, build, test, and ship real software systems.</b>
@@ -111,6 +115,8 @@ I enjoy building systems that are not only functional, but also organized, maint
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=20&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&width=850&lines=Frontend+Precision.;Backend+Architecture.;Database+Logic.;Developer+Tooling." />
 </p>
+
+<br/>
 
 <table align="center">
 <tr>
@@ -201,17 +207,23 @@ I enjoy building systems that are not only functional, but also organized, maint
 </tr>
 </table>
 
+<br/>
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=22&color=0:00F0FF,50:9C00FF,100:FF00E0" />
 </p>
 
+<br/>
+
 <!-- ===================== FEATURED PROJECTS ===================== -->
 
-<h2>🚀 Featured Projects</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
   <b>Selected systems built around real workflows, clean interfaces, and practical problem solving.</b>
 </p>
+
+<br/>
 
 <table>
 <tr>
@@ -330,13 +342,19 @@ Every system I build follows a practical engineering structure:
 </tr>
 </table>
 
+<br/>
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F0FF,25:0D1117,50:9C00FF,75:0D1117,100:FF00E0" />
 </p>
 
+<br/>
+
 <!-- ===================== PROFESSIONAL SERVICES ===================== -->
 
-<h2>🎯 Professional Services</h2>
+<h2 align="center">🎯 Professional Services</h2>
+
+<br/>
 
 <table>
 <tr>
@@ -388,17 +406,23 @@ Preparing applications for hosting, testing, optimization, and real-world usage.
 </tr>
 </table>
 
+<br/>
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=28&color=0:020617,20:00F0FF,50:9C00FF,80:FF00E0,100:020617" />
 </p>
 
+<br/>
+
 <!-- ===================== DEVELOPER PHILOSOPHY ===================== -->
 
-<h2>🧠 Developer Philosophy</h2>
+<h2 align="center">🧠 Developer Philosophy</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=FF00E0&center=true&vCenter=true&width=800&lines=Clean+code+creates+clean+systems.;Simplicity+is+not+basic.+It+is+power.;Good+software+feels+invisible+to+the+user.;Build+systems+that+help+people+move+faster." />
 </p>
+
+<br/>
 
 <table>
 <tr>
@@ -426,19 +450,27 @@ Good design makes software easier to trust, easier to use, and easier to underst
 </tr>
 </table>
 
+<br/>
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FF00E0,50:111827,100:00F0FF" />
 </p>
 
+<br/>
+
 <!-- ===================== CURRENT FOCUS ===================== -->
 
-<h2>🔭 Current Focus</h2>
+<h2 align="center">🔭 Current Focus</h2>
+
+<br/>
 
 * Enhancing the **E-Commerce System** with smarter recommendations and better admin control
 * Building a next-generation **Student Management Dashboard**
 * Optimizing the **Police Management System** for speed, reporting, and analytics
 * Exploring full-stack deployment using **Flask**, **MongoDB**, and cloud platforms
 * Improving system design, backend architecture, and professional UI patterns
+
+<br/>
 
 <!-- ===================== GITHUB STATISTICS ===================== -->
 
@@ -448,29 +480,56 @@ Good design makes software easier to trust, easier to use, and easier to underst
 
 <!-- ========================================================= -->
 
+<br/>
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,25:0D1117,50:3B0764,75:0E7490,100:FF00E0&section=header" />
 </p>
 
-<h2>📊 GitHub Analytics Command Center</h2>
+<h1 align="center">📊 GitHub Analytics Command Center</h1>
 
 <p align="center">
   <b>Live activity, development footprint, language intelligence, peak performance, and contribution energy.</b>
 </p>
 
+
+
+<br/>
+
 <!-- ===================== ANALYTICS SIGNAL BADGES ===================== -->
+
+
+
+<br/>
 
 <!-- ===================== MAIN ANALYTICS GRID ===================== -->
 
+
+
 <!-- ===================== PEAK PERFORMANCE PANEL ===================== -->
+
+
 
 <p align="center">
   <img width="78%" src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=900&size=34&duration=1600&pause=900&color=00F0FF&background=0D1117&center=true&vCenter=true&width=850&height=150&lines=%F0%9F%94%A5+Peak+Activity+Day;44+Contributions+on+May+2;Consistency+Creates+Engineering+Power" alt="Peak Activity Day - 44 Contributions on May 2" />
 </p>
 
+<br/>
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
 
-<h2>🐍 Contribution Snake Animation</h2>
+<h2 align="center">🐍 Contribution Snake Animation</h2>
 
 <p align="center">
   <b>A visual trail of GitHub activity moving through the contribution grid.</b>
@@ -494,9 +553,11 @@ Good design makes software easier to trust, easier to use, and easier to underst
   </picture>
 </p>
 
+<br/>
+
 <!-- ===================== QUOTE + VISITOR PANEL ===================== -->
 
-<h2>💬 Signal Board</h2>
+<h2 align="center">💬 Signal Board</h2>
 
 <table align="center">
   <tr>
@@ -513,6 +574,8 @@ Good design makes software easier to trust, easier to use, and easier to underst
   </tr>
 </table>
 
+<br/>
+
 <!-- ===================== FINAL ANALYTICS STRIP ===================== -->
 
 <p align="center">
@@ -526,19 +589,25 @@ Good design makes software easier to trust, easier to use, and easier to underst
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF00E0,25:0D1117,50:3B0764,75:0E7490,100:00F0FF&section=footer" />
 </p>
 
+<br/>
+
 <!-- ========================================================= -->
 
 <!--              END GITHUB ANALYTICS NEON CENTER             -->
 
 <!-- ========================================================= -->
 
+<br/>
+
 <!-- ===================== CONNECT SECTION ===================== -->
 
-<h2>📡 Connect With My Universe</h2>
+<h2 align="center">📡 Connect With My Universe</h2>
 
 <p align="center">
   <b>Open to collaborations, client projects, software ideas, and meaningful technology conversations.</b>
 </p>
+
+<br/>
 
 <p align="center">
   <a href="mailto:abdihamiidmahamed46@gmail.com">
@@ -557,6 +626,8 @@ Good design makes software easier to trust, easier to use, and easier to underst
     <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-00FF9C?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </p>
+
+<br/>
 
 <!-- ===================== PREMIUM FOOTER ===================== -->
 
